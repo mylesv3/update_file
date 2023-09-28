@@ -2,7 +2,6 @@ Open the file that contains the allow list
 ------------------------------------------
 
 For the first part of the algorithm, I opened the "allow_list.txt" file. First, I assigned this file name as a string to the import_file variable:
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot of Python code that assigns "allow_list.txt" to the import_file variable](https://lh3.googleusercontent.com/Pf841FkYHPg70wYS42SpzGJVWvZRbpaPNO7S5poRAy0ZiREd2QJ5N3WSTO8OYSg8n7TDDTOPeJvwPs77zcClTiy_PQy_tLCKjlnmYt_jf2_1OglwU0hf2pbVobHMEw_komOysTHOOAgz_2fiJLmjW-62RkuOdNVr-aglXOWkF4QkfHW3zh_IMnlIdFq7rVEK194BS28_k-ypVHdNKWRQbQIrnvk1Bk-SBvC0ow)
 
